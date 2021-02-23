@@ -6,6 +6,6 @@ this repository is created to test my  ps4 in version 7.55
 
 # ps4-7.55_jailbreak
 
-(no jailbreak working)
+(no jailbreak yet)
 
 * Game List PS4 7.55: https://alexbrea.github.io/PS4-7.55-compatible-games-list/ 
