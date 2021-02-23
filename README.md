@@ -1,2 +1,3 @@
 # ps4-7.55_tester
-To test on my ps4 7.55
+
+this repository is created to test my pirate ps4 in version 7.55
